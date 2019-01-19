@@ -35,6 +35,10 @@ namespace SalonSamochodowy.Dane
             s1.ListaWyposazenia.Add(DostepneWyposazenie[4]);
             s1.ListaWyposazenia.Add(DostepneWyposazenie[1]);
             s1.ListaWyposazenia.Add(DostepneWyposazenie[3]);
+
+            Samochody = new List<Samochod>();
+            Samochody.Add(s1);
+            Samochody.Add(s2);
         }
     }
 }

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalonSamochodowy.Lib", "Sal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalonSamochodowy.Dane", "SalonSamochodowy.Dane\SalonSamochodowy.Dane.csproj", "{4D1C7574-C221-4FFB-9E99-AF28DC5BF2BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalonSamochodowy.App", "SalonSamochodowy.App\SalonSamochodowy.App.csproj", "{9B3613C2-22DA-4FBF-8494-4EF57DBE5E8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4D1C7574-C221-4FFB-9E99-AF28DC5BF2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D1C7574-C221-4FFB-9E99-AF28DC5BF2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D1C7574-C221-4FFB-9E99-AF28DC5BF2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B3613C2-22DA-4FBF-8494-4EF57DBE5E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3613C2-22DA-4FBF-8494-4EF57DBE5E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3613C2-22DA-4FBF-8494-4EF57DBE5E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3613C2-22DA-4FBF-8494-4EF57DBE5E8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
